@@ -1,0 +1,6 @@
+duration,protocol_type,src_bytes,dst_bytes,label
+0,tcp,491,0,0
+0,tcp,146,0,0
+0,tcp,232,8153,0
+0,tcp,199,420,1
+0,tcp,0,0,1
